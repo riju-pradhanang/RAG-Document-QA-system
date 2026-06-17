@@ -1,4 +1,4 @@
-# RAG
+# RAG Document QA System
 
 A small Retrieval-Augmented Generation (RAG) project scaffold using Python, LangChain, and local vector stores.
 
